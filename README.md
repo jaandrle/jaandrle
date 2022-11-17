@@ -15,6 +15,7 @@ Subject: Hi there – This is me
 > - :wrench: :hammer: But, it doesn't mean I reinvent the wheels: [Apache Cordova](https://cordova.apache.org/ "Mobile apps with HTML, CSS & JS | Target multiple platforms with one code base | Free and open source"), [Ionic](https://ionicframework.com/ "Cross-Platform Mobile App Development"), [React Native](https://reactnative.dev/ "A framework for building native apps using React"), [React](https://reactjs.org/ "A JavaScript library for building user interfaces"), …
 > - :book: :books: My favourite books/series/authors: Bobiverse series (Dennis E. Taylor), Imperial Radch series (Ann Leckie), Douglas Adams, Terry Pratchett, Wayfarers series (Becky Chambers), Cloud Atlas (David Mitchell), The Map of Time (Félix J. Palma), J. K. Rowling, J. R. Tolkien, Jana Rečková (Údolí Žalozpěvu series), …, …, …
 > - :speech_balloon: :mailbox: You can reach me by email or by [Mastodon (@jaandrle@fosstodon)](https://fosstodon.org/@jaandrle)
+> - :pencil: :pencil2: I also have blog [https://jaandrle.github.io/](https://jaandrle.github.io/)
 >
 > Regards,
 > JA
